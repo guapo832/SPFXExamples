@@ -1,0 +1,18 @@
+.TermsTreeDialog{
+    :global{
+        ms-Dialog-main{
+            background-color:white!important;
+        }
+    }
+
+
+    height : 503px;
+    max-width: 1024px!important;
+    min-width: 800px!important;
+    background-color: white!important;
+    .dlgContainer {
+        height:300px;
+        overflow: scroll;
+        border:1px solid black;
+    }
+}

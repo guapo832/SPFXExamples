@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/sharePointExamples/SharePointExamplesWebPart.js",
+      "manifest": "./src/webparts/sharePointExamples/SharePointExamplesWebPart.manifest.json",
+      "outputPath": "./dist/share-point-examples-web-part.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "SharePointExamplesWebPartStrings": "webparts/sharePointExamples/loc/{locale}.js"
+  }
+}

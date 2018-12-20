@@ -1,0 +1,19 @@
+.taxonomymmdpicker
+{
+  width:auto;
+  min-height: 10px;
+  .TaxPickerButton{
+    background-image: url("/_layouts/images/EMMCopyTerm.png");
+    background-position-x: 0%;
+    background-position-y: 0%;
+    background-repeat: no-repeat;
+    background-clip: border-box;
+    min-height: 19px;
+    width:19px;
+    cursor:pointer;
+  }
+  .TaxPickerFld{
+    width:75%;
+  }
+  
+}
